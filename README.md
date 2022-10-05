@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### 😄 Pronouns: she/her
 ### My Sites
+![alt text](QRCodeLinkedin.png)
 <!--
 **annie1520/annie1520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
